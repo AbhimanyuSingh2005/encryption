@@ -114,6 +114,3 @@ app.listen(3000 , function(){
     console.log("Server is Running");
 })
 
-// passport.authenticate('local', { failureRedirect: '/' }),  function(req, res) {
-// 	console.log(req.user)
-// 	res.redirect('/dashboard');
